@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+header p {
+    margin: 5px 0;
+}
+section {
+    margin-bottom: 20px;
+}
+h2 {
+    /* border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    font-size: 1.5em; */
+    font-size: 1.5em;
+}
+.divider {
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+.bullet-li {
+    list-style: disc;
+    margin-left: 20px;
+}
+li {
+    margin-bottom: 10px;
+}
+.skills, .experience, .education, .certifications, .projects, .affiliations, .awards {
+    margin-bottom: 20px;
+}
